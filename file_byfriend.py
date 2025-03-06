@@ -1,0 +1,1 @@
+#kuch bhi likhdo file me lecture 12.
